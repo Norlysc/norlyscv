@@ -33,9 +33,17 @@
     background-color: #6b3053;
     color: white;
     border-radius: 20px;
-    margin-right: auto;
-    padding: 10px 20px;
-    text-align: right;
+    float: right;
+    font-size: 30px;
+    text-decoration: underline;
+    margin-top: 10px;
+    }
+
+    .boton a {
+     background: #6b3053;
+     color: white;
+     padding: 10px 20px;
+     text-decoration: none;
   }
   
   h3 {
@@ -43,6 +51,7 @@
     background-color: #886565;
     color: #1e0d0d;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
   }
 
 .div-img {
@@ -60,6 +69,7 @@
   font-weight: bold;
   font-style: italic;
   font-size: 25px;
+  margin-left: 10px;
   }
   .nombre-completo{
   margin: 0;
@@ -67,17 +77,18 @@
   font-weight: normal;
   font-style: normal;
   font-size: 25px;
+  margin-left: 10px;
   }
 
 .subrayado-negrita1{
   font-weight: bold;
-  margin-left: 5px;
+  margin-left: 10px;
   font-size: 25px;
 }
 
 .bubrayado-negrita2{
   font-weight: bold;
-  margin-left: 5px;
+  margin-left: 10px;
   font-size: 25px;
 }
 
@@ -95,6 +106,9 @@
   font-size: 35px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
+}
+.skill{
+  margin-left: 10px;
 }
 
 i{
